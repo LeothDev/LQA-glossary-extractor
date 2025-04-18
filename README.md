@@ -22,6 +22,8 @@ Large projects often suffer from **inconsistent terminology** or **missing gloss
 
 Ideal for **PMs, linguists, and LQA specialists** working on games, apps, or any high-volume localization project.
 
+![Example](assets/images/example.png)
+
 ---
 
 ## ⚙️ Features
